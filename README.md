@@ -3,6 +3,8 @@ Hello I am Sebastian Mejia and I have 2 cats at home and live in NYC, Queens. I 
 https://www.rit.edu/computing/department-software-engineering#:~:text=Welcome%20to%20RIT%20and%20the%20Department%20of%20Software
 
 What i wannna learn about:
-How to be successful in SWEN job finding search
-How to stand out as a software engineer
-How SWEN jobs can vary in what you are doing
+<ul>
+  <li>How to be successful in SWEN job finding search</li>
+  <li>How to stand out as a software engineer</li>
+  <li>How SWEN jobs can vary in what you are doing</li>
+</ul>
