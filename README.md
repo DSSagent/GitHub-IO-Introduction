@@ -9,4 +9,4 @@ What i wanna learn about:
   <li>How SWEN jobs can vary in what you are doing</li>
 </ul>
 
-![cliff_bar](C:\Users\Sebas\Downloads\cliffbar.png)
+<img src="cliffbar.png" alt="Cliff Bar">
