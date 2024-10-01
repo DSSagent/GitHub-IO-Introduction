@@ -8,3 +8,5 @@ What i wannna learn about:
   <li>How to stand out as a software engineer</li>
   <li>How SWEN jobs can vary in what you are doing</li>
 </ul>
+
+![cliff_bar](C:\Users\Sebas\Downloads\cliffbar.png)
