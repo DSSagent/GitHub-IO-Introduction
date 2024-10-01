@@ -5,7 +5,7 @@ Hello I am Sebastian Mejia and I have 2 cats at home and live in NYC, Queens. I 
 What i wanna learn about:
 <ul>
   <li>How to be successful in SWEN job finding search</li>
-  <li>How to stand out as a software engineer</li>
+  <li>How to stand out as a software engineer (for jobs)</li>
   <li>How SWEN jobs can vary in what you are doing</li>
 </ul>
 
